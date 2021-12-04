@@ -1,0 +1,6 @@
+*.npy
+*.pickle
+*.weights
+model.bin
+model.bin.optim
+*.params
